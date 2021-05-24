@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/website-test/static/css/main.eb78eb0f.chunk.css",
-    "main.js": "/website-test/static/js/main.c5cd4ed9.chunk.js",
-    "main.js.map": "/website-test/static/js/main.c5cd4ed9.chunk.js.map",
+    "main.css": "/website-test/static/css/main.edb979c2.chunk.css",
+    "main.js": "/website-test/static/js/main.102802fd.chunk.js",
+    "main.js.map": "/website-test/static/js/main.102802fd.chunk.js.map",
     "runtime-main.js": "/website-test/static/js/runtime-main.9b17150a.js",
     "runtime-main.js.map": "/website-test/static/js/runtime-main.9b17150a.js.map",
-    "static/js/2.2e49dd55.chunk.js": "/website-test/static/js/2.2e49dd55.chunk.js",
-    "static/js/2.2e49dd55.chunk.js.map": "/website-test/static/js/2.2e49dd55.chunk.js.map",
+    "static/js/2.692ca10e.chunk.js": "/website-test/static/js/2.692ca10e.chunk.js",
+    "static/js/2.692ca10e.chunk.js.map": "/website-test/static/js/2.692ca10e.chunk.js.map",
     "index.html": "/website-test/index.html",
-    "static/css/main.eb78eb0f.chunk.css.map": "/website-test/static/css/main.eb78eb0f.chunk.css.map",
-    "static/js/2.2e49dd55.chunk.js.LICENSE.txt": "/website-test/static/js/2.2e49dd55.chunk.js.LICENSE.txt",
+    "static/css/main.edb979c2.chunk.css.map": "/website-test/static/css/main.edb979c2.chunk.css.map",
+    "static/js/2.692ca10e.chunk.js.LICENSE.txt": "/website-test/static/js/2.692ca10e.chunk.js.LICENSE.txt",
     "static/media/index.css": "/website-test/static/media/Sneaky-Times.5f5ff68c.woff",
-    "static/media/Computer-trans-UV.fa6296e5.gltf": "/website-test/static/media/Computer-trans-UV.fa6296e5.gltf",
-    "static/media/Floppy-cd.69181ac9.gltf": "/website-test/static/media/Floppy-cd.69181ac9.gltf",
-    "static/media/Rose-rot.2db5ffb1.glb": "/website-test/static/media/Rose-rot.2db5ffb1.glb",
+    "static/media/Computer-lowpoly.d2d9285d.glb": "/website-test/static/media/Computer-lowpoly.d2d9285d.glb",
+    "static/media/Floppy-cd-lowpoly.2ddbfd4d.glb": "/website-test/static/media/Floppy-cd-lowpoly.2ddbfd4d.glb",
+    "static/media/Rose-rot-lowpoly.119b999b.glb": "/website-test/static/media/Rose-rot-lowpoly.119b999b.glb",
     "static/media/Sky.85d18c9d.mp4": "/website-test/static/media/Sky.85d18c9d.mp4"
   },
   "entrypoints": [
     "static/js/runtime-main.9b17150a.js",
-    "static/js/2.2e49dd55.chunk.js",
-    "static/css/main.eb78eb0f.chunk.css",
-    "static/js/main.c5cd4ed9.chunk.js"
+    "static/js/2.692ca10e.chunk.js",
+    "static/css/main.edb979c2.chunk.css",
+    "static/js/main.102802fd.chunk.js"
   ]
 }
